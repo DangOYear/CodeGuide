@@ -19,7 +19,9 @@
     "todo",
     "copy-code-button",
     "expandable-chapters-small",
-    "donate"
+    "donate",
+    "expandable-chapters",
+    "chapter-fold"
   ],
   "pluginsConfig": {
     "search-pro": {
