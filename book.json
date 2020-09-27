@@ -30,19 +30,19 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "gitbook-template"
+      "shortName": "CodeGuide"
     },
     "github-buttons": {
       "buttons": [{
-        "user": "riskers",
-        "repo": "gitbook-template",
+        "user": "DangOYear",
+        "repo": "CodeGuide",
         "type": "star",
         "size": "small",
         "count": true
       }]
     },
     "editlink": {
-      "base": "https://github.com/riskers/gitbook-template/blob/master",
+      "base": "https://github.com/DangOYear/CodeGuide/blob/master",
       "label": "Edit",
       "multilingual": false
     },

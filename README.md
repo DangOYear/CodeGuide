@@ -1,3 +1,3 @@
-# gitbook-template
+# CodeGuide
 
-说明详见 https://github.com/riskers/blog/issues/48
+https://dangoyear.github.io/CodeGuide
