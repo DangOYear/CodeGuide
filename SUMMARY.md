@@ -1,6 +1,13 @@
 # Summary
 
 * [简介](README.md)
+* [计算机基础](./BasisofComputerEngineering/README.md)
+   * [计算机网络](./BasisofComputerEngineering/计算机网络/README.md)
+   * [操作系统](./BasisofComputerEngineering/操作系统/README.md)
+   * [计算机组成原理和系统结构](./BasisofComputerEngineering/计算机组成原理和系统结构/README.md)
+   * [数据结构与算法](./BasisofComputerEngineering/数据结构与算法/README.md)
+   * [编译原理](./BasisofComputerEngineering/编译原理/README.md)
+
 * [Java](./Java/README.md)
 
    * [Java容器](./Java/Java容器/README.md)
