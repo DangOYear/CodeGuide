@@ -1,3 +1,3 @@
-# CodeGuide
+# gitbook-template
 
-+ 编程知识总结
+说明详见 https://github.com/riskers/blog/issues/48

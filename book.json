@@ -1,0 +1,79 @@
+{
+  "title": "title",
+  "author": "",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "-sharing",
+    "disqus",
+    "github-buttons",
+    "editlink",
+    "ga",
+    "-highlight",
+    "prism",
+    "bibtex-indexed-cite",
+    "anchor-navigation-ex",
+    "page-footer-ex",
+    "splitter",
+    "todo",
+    "copy-code-button",
+    "expandable-chapters-small",
+    "donate"
+  ],
+  "pluginsConfig": {
+    "search-pro": {
+      "cutWordLib": "nodejieba",
+      "defineWord": ["Gitbook Use"]
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false
+    },
+    "disqus": {
+      "shortName": "gitbook-template"
+    },
+    "github-buttons": {
+      "buttons": [{
+        "user": "riskers",
+        "repo": "gitbook-template",
+        "type": "star",
+        "size": "small",
+        "count": true
+      }]
+    },
+    "editlink": {
+      "base": "https://github.com/riskers/gitbook-template/blob/master",
+      "label": "Edit",
+      "multilingual": false
+    },
+    "ga": {
+      "token": "UA-131910384-3"
+    },
+    "prism": {
+      "ignore": [
+        "mermaid",
+        "eval-js"
+      ],
+      "css": [
+        "prismjs/themes/prism-solarizedlight.css"
+      ]
+    },
+    "page-footer-ex": {
+      "copyright": "By Salted-Fish",
+      "markdown": true,
+      "update_label": "此页面修订于：",
+      "update_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "bibtex-indexed-cite": {
+      "path": "/"
+    },
+    "donate": {
+      "wechat": "",
+      "alipay": "",
+      "title": "",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    }
+  }
+}
