@@ -12,6 +12,7 @@
    * [Java容器](./Java/Java容器/README.md)
       * [Java容器简介](./Java/Java容器/JavaCollection.md)
    * [Java虚拟机](./Java/Java虚拟机/README.md)
+      * [Java虚拟机版本之间的不同](/Users/yushengyun/Documents/GitHub/CodeGuide/Java/Java虚拟机/0.Java虚拟机版本之间的差异.md)
       * [Java虚拟机简介](./Java/Java虚拟机/1.Java虚拟机简介.md)
       * [Java内存区域与内存溢出异常](./Java/Java虚拟机/2.Java内存区域与内存溢出异常.md)
       * [垃圾收集器与内存分配策略](./Java/Java虚拟机/3.垃圾收集器与内存分配策略.md)
@@ -23,8 +24,8 @@
       * [前端编译优化](./Java/Java虚拟机/9.前端编译优化.md)
       * [后端编译优化](./Java/Java虚拟机/10.后端编译优化.md)
       * [Java内存模型与线程](./Java/Java虚拟机/11.Java内存模型与线程.md)
-      * [线程安全与锁优化](./Java/Java虚拟机/12.线程安全与锁优化.md)
-
+   * [线程安全与锁优化](./Java/Java虚拟机/12.线程安全与锁优化.md)
+   
 * [Spring]()
 
 * [Linux内核](./LinuxKernel/README.md)
