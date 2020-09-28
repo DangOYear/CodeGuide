@@ -32,7 +32,9 @@
 * [Spring]()
 
 * [设计模式](./DesignPattern/README.md)
-
+   * [创建型](./DesignPattern/Creational/README.md)
+   * [结构型](./DesignPattern/Structural/README.md)
+   * [行为型](./DesignPattern/Behavioral/README.md)
 
 * [Linux内核](./LinuxKernel/README.md)
    * [Linux中断](./LinuxKernel/Linux中断.md)
