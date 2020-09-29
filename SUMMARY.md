@@ -54,10 +54,10 @@
    * [Kafka](./MessageQueue/Kafka/README.md)
 
 * [容器技术](./ContainerTechnology/README.md)
-   * [Docker](./ContainerTechnology/Docker/README.md)
-      * [Docker简介](./ContainerTechnology/Docker/Docker简介.md)
-      * [Docker常用命令](./ContainerTechnology/Docker/Docker常用命令.md)
-   * [K8S](./ContainerTechnology/K8S/README.md)
+   * [Docker](./ContainerTechnology/Docker.md#docker)
+      * [Docker简介](./ContainerTechnology/Docker.md#docker简介)
+   * [Kubernetes](./ContainerTechnology/Kubernetes.md#kubernetes)
+      * [Kubernetes简介](./ContainerTechnology/Kubernetes.md#kubernetes简介)
 
 * [分布式](./DistributedSystem/README.md)
    * [Zookeeper](./DistributedSystem/Zookeeper/README.md)
