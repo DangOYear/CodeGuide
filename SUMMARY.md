@@ -47,7 +47,7 @@
 
 * [数据库](./DataBase/README.md)
    * [MySQL](./DataBase/MySQL/README.md)
-   * [Redis](./DataBase/Redis/README.md)
+   * [Redis](./DataBase/Redis.md)
    * [Hbase](./DataBase/Hbase/README.md)
 
 * [消息队列](./MessageQueue/README.md)
@@ -72,6 +72,10 @@
 * [开发常用工具](./Tool/README.md)
    * [Charles](./Tool/Charles.md)
    * [Git](./Tool/Git.md)
+
+* [构建工具](./BuildTools/README.md)
+   * [Gradle](./BuildTools/Gradle.md)
+   * [Maven](./BuildTools/Maven.md)
 
 * [书单](./BookList/README.md)
    * [计算机基础](./BookList/计算机基础.md#计算机基础书单)
