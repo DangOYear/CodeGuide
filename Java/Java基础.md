@@ -29,17 +29,43 @@ Java共有8个基本类型
 + 布尔类型boolean（单boolean与int相同，boolean数组中单个boolean与byte相同）
 + 数值类型byte（8）、short（16）、int（32）、long（64）、float（32）、double（64）
 
+
+
 ## 类与接口
 
 
 
 ## 字符串
 
-
-
 ## 包（Package）
 
+### 包的作用
+
+包的出现是为了更好的组织类。
+
+相关的类和接口可以组织到一个包里
+
+同名的类可以组织到不同的包里来区分
+
+包访问权限
+
+### 包的导入
+
++ 全部导入
+  + import java.util.*;（不推荐）
+
++ 导入具体的
+  + import java.util.Arrays;（推荐）
++ 静态导入
+  + import static java.lang.Math.PI; double r = cos(PI * theta)。静态导入时不需要指定类。
+
+### 通过包访问包的成员
+
+x.xx y = new x.xx();
+
 ## 注解
+
+
 
 ## 异常
 
