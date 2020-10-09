@@ -56,7 +56,7 @@
     * [分布式系统简介](./DistributedSystem/IntroductionToDistributedSystem.md)
     * [ZooKeeper](./DistributedSystem/ZooKeeper.md#zookeeper)
         * [ZooKeeper简介](./DistributedSystem/ZooKeeper.md#zookeeper简介)
-        * [ZAB协议](./DistributedSystem/Zookeeper.md#zab协议)
+        * [ZAB协议](./DistributedSystem/ZooKeeper.md#zab协议)
 * [Netty和RPC](./NettyandRPC/README.md)
     * [Netty](./NettyandRPC/Netty/README.md)
     * [Dubbo](./NettyandRPC/Dubbo/README.md)
