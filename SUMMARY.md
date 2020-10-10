@@ -35,9 +35,10 @@
       * [线程安全与锁优化](./Java/Java虚拟机/12.线程安全与锁优化.md)
 * Spring
 * [设计模式](./DesignPattern/README.md)
-  * [创建型](./DesignPattern/Creational/README.md)
-  * [结构型](./DesignPattern/Structural/README.md)
-  * [行为型](./DesignPattern/Behavioral/README.md)
+  * [创建型](./DesignPattern/Creational.md#创建型模式)
+    * [单例模式](./DesignPattern/Creational.md#单例模式)
+  * [结构型](./DesignPattern/Structural.md#行为型模式)
+  * [行为型](./DesignPattern/Behavioral.md#行为型模式)
 * [Linux内核](./LinuxKernel/README.md)
   * [Linux中断](./LinuxKernel/Linux中断.md)
 * [数据库](./DataBase/README.md)
