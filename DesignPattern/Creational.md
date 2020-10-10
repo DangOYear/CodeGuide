@@ -183,3 +183,7 @@ public class SingletonStaticInnerClasses {
 }
 ```
 
+
+
+## 工厂模式
+

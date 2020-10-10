@@ -37,6 +37,7 @@
 * [设计模式](./DesignPattern/README.md)
   * [创建型](./DesignPattern/Creational.md#创建型模式)
     * [单例模式](./DesignPattern/Creational.md#单例模式)
+    * [工厂模式](./DesignPattern/Creational.md#工厂模式)
   * [结构型](./DesignPattern/Structural.md#行为型模式)
   * [行为型](./DesignPattern/Behavioral.md#行为型模式)
 * [Linux内核](./LinuxKernel/README.md)
