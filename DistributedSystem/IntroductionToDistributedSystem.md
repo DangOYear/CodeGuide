@@ -1,6 +1,6 @@
 # 分布式系统简介
 
-## ACID/CAP/BASE理论
+## ACID、CAP、BASE理论
 
 + ACID
   + 原子性
