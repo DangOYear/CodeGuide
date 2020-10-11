@@ -41,7 +41,7 @@
   * [结构型](./DesignPattern/Structural.md#行为型模式)
   * [行为型](./DesignPattern/Behavioral.md#行为型模式)
 * [Linux内核](./LinuxKernel/README.md)
-  * [Linux中断](./LinuxKernel/Linux中断.md)
+  * [Linux中断和异常](./LinuxKernel/Linux中断和异常.md)
 * [数据库](./DataBase/README.md)
   * [数据库基本原理](./DataBase/数据库基本原理.md)
   * [MySQL](./DataBase/MySQL/README.md)
