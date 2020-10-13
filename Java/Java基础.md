@@ -47,6 +47,16 @@ Java共有8个基本类型
 
 ## 字符串
 
+### 类型
+
++ String
++ StringBuffer
++ StringBuilder
+
+String中的字符串是final的无法修改，可以修改指向的字符串常量。
+
+String和StringBuffer是线程安全的，但StringBuffer的效率会低于StringBuilder。
+
 ## 包（Package）
 
 ### 包的作用
@@ -79,12 +89,39 @@ x.xx y = new x.xx();
 
 ## 异常
 
-## 范型
+
+
+<img src="../img/JavaJava基础异常类.png" alt="image-20201013161713499" style="zoom:67%;" />
+
+Error一般JVM就会终止线程
+
+Exception中有两类，一类可检查异常，一类运行时异常。
+
+### finally不被执行的可能情况
+
++ System.exit()
+
+## 泛型
+
+
+
+
 
 ## 枚举
 
+
+
 ## 序列化
+
+实现序列化需要 implements Serializable
+
+如果有不想要序列化的字段可以用transient
+
+
 
 ## Lambda表达式（包含流行的Stream）
 
 ## 反射
+
+可以使用e.getClass()或者Class.forName(className)来获取Class对象
+
