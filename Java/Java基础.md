@@ -29,11 +29,21 @@ Java共有8个基本类型
 + 布尔类型boolean（单boolean与int相同，boolean数组中单个boolean与byte相同）
 + 数值类型byte（8）、short（16）、int（32）、long（64）、float（32）、double（64）
 
+### 面向对象三大特性
 
++ 封装
+  + 隐藏对象的属性，仅向外面提供访问的接口
++ 继承
++ 多态
 
 ## 类与接口
 
+### 区别
 
++ 一个类可以实现implements多个接口，但是可以extends多个接口，接口可以extends多个接口
++ 接口的方法默认是public而且不能有实现（1.8之后可以有实现），抽象类可以有非抽象的方法，抽象方法可以有public、protected、default这些修饰符。
++ 接口中只能存在static、final的变量
++ 抽象是对类的抽象，接口是对行为的抽象。
 
 ## 字符串
 
@@ -76,3 +86,5 @@ x.xx y = new x.xx();
 ## 序列化
 
 ## Lambda表达式（包含流行的Stream）
+
+## 反射
