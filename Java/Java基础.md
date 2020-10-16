@@ -125,3 +125,11 @@ Exception中有两类，一类可检查异常，一类运行时异常。
 
 可以使用e.getClass()或者Class.forName(className)来获取Class对象
 
+## Object的方法
+
+### 为什么重写 `equals` 时必须重写 `hashCode` 方法
+
+equals相同，hashCode必须相同。
+
+equals不相同，hashCode必须不相同。
+
