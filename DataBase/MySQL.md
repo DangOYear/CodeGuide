@@ -1,5 +1,26 @@
 # MySQL
 
+## mysql引擎
+
++ InnoDB（默认）
++ MyISAM
+
+其实有更多，但是主要是这两种。可以通过**SHOW ENGINES;**查看。
+
+创建时可以指定，不指定则为默认引擎
+
+```mysql
+SQL CREATE TABLE 表名(
+  	建表字段; 
+) ENGINE = 存储引擎名称;
+```
+
+### InnoDB和MyISAM区别
+
++ **InnoDB支持事务，支持行级锁和外键（重要）**，MyISAM只支持表锁
++ InnoDB 是聚集索引，MyISAM 是非聚集索引。聚集索引的文件存放在主键索引的叶子节点上，因此 InnoDB 必须要有主键，通过主键索引效率很高。但是辅助索引需要两次查询，先查询到主键，然后再通过主键查询到数据。
++ InnoDB 不保存表的数据行数，执行 select count(*) from table 时需要全表扫描。而MyISAM 用变量保存了表的行数。
+
 ## 索引
 
 ### 使用索引的优缺点
