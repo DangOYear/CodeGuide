@@ -35,6 +35,10 @@
 
 ## Spring bean的生命周期
 
+![Spring的生命周期](../img/WebSpringSpring生命周期.png)
+
+
+
 ## Spring事务
 
 ## Spring 隔离级别
