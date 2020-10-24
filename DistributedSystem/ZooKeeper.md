@@ -38,8 +38,6 @@ ZooKeeper数据模型中的数据单元。
 
 Zookeeper允许用户在指定节点上注册一些Watcher，并且在特定事件触发的时候，ZooKeeper服务端会将事件通知到对应的客户端上。
 
-
-
 ### ACL
 
 ZooKeeper定义了5种权限
