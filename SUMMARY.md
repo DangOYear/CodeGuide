@@ -68,6 +68,7 @@
     * [3PC](./DistributedSystem/IntroductionToDistributedSystem.md#3pc)
     * [Paxos](./DistributedSystem/IntroductionToDistributedSystem.md#paxos)
     * [一致性Hash](./DistributedSystem/IntroductionToDistributedSystem.md#一致性hash)
+    * [分布式锁](./DistributedSystem/IntroductionToDistributedSystem.md#分布式锁)
   * [ZooKeeper](./DistributedSystem/ZooKeeper.md#zookeeper)
     * [ZooKeeper简介](./DistributedSystem/ZooKeeper.md#zookeeper简介)
     * [ZAB协议](./DistributedSystem/ZooKeeper.md#zab协议)

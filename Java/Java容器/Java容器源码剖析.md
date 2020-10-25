@@ -12,6 +12,8 @@ HashMap成环原因
 
 [成环原因](https://www.shuzhiduo.com/A/MyJxjw3Adn/)
 
+[成环原因](https://coolshell.cn/articles/9606.html)
+
 HashMap
 
 ### 为什么Hashmap是两次幂
@@ -41,5 +43,7 @@ JDK1.8之后单个桶元素大于8个会使用红黑树
 
 ## ConcurrentHashMap源码
 
+上面是Segment，设置好后就不能变化。默认是16个。
 
+扩容只会扩展到原来的两倍。
 
