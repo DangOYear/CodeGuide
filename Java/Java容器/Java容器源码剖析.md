@@ -10,7 +10,7 @@ HashMap成环原因
 每次扩容transfer，都是倒置。
 线程1循环完毕后。其实线程2看到的
 
-[成环原因](https://juejin.im/post/6844903942720061447)
+[成环原因](https://www.shuzhiduo.com/A/MyJxjw3Adn/)
 
 HashMap
 
@@ -40,4 +40,6 @@ JDK1.8之后单个桶元素大于8个会使用红黑树
 ### JDK1.8
 
 ## ConcurrentHashMap源码
+
+
 
