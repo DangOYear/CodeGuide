@@ -98,6 +98,7 @@
     * [计算机体系结构](./BookList/计算机基础.md#计算机体系结构)
     * [编译原理](./BookList/计算机基础.md#编译原理)
     * [计算机网络](./BookList/计算机基础.md#计算机网络)
+    * [数据库](./BookList/计算机基础.md#数据库)
   * [LinuxUnix](./BookList/LinuxUnix.md#linuxunix书单)
     * [Linux入门使用](./BookList/LinuxUnix.md#linux入门使用)
     * [Linux内核](./BookList/LinuxUnix.md#linux内核)
@@ -105,3 +106,4 @@
   * [Java](./BookList/Java.md#Java书单)
     * [Java基础](./BookList/Java.md#java基础)
     * [Java虚拟机](./BookList/Java.md#java虚拟机)
+
