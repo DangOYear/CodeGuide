@@ -133,3 +133,11 @@ equals相同，hashCode必须相同。
 
 equals不相同，hashCode必须不相同。
 
+## Java枚举
+
+Java枚举是一个特殊的类。
+
+表示一组常量。
+
+
+
