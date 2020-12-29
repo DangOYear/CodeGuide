@@ -11,6 +11,7 @@
 * [算法](./Algorithms/笔试面试算法.md#笔试面试算法)
 * [Java](./Java/README.md)
   * [Java基础](./Java/Java基础.md)
+  * [Lambda使用](./Java/Lambda(Stream使用).md)
   * [Java容器](./Java/Java容器/README.md)
     * [Java容器简介](./Java/Java容器/Java容器概述.md)
     * [Java容器源码分析](./Java/Java容器/Java容器源码剖析.md#java容器源码剖析)
