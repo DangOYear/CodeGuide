@@ -22,6 +22,8 @@
   * [Java并发](./Java/Java并发/README.md)
   * [JavaIO](./Java/JavaIO.md#javaio)
   * [Java网络编程](./Java/Java网络编程.md)
+  * [EffectiveJava](./Java/EffectiveJava/README.md)
+    * []()
   * [Java虚拟机](./Java/Java虚拟机/README.md)
     * [Java虚拟机重点](./Java/Java虚拟机/0.Java虚拟机重点.md)
     * [Java虚拟机简介](./Java/Java虚拟机/1.Java虚拟机简介.md)

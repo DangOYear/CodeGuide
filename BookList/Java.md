@@ -21,3 +21,10 @@
 
 
 <img src="../img/BookListJava深入理解Java虚拟机.png" alt="img" style="zoom: 45%;" />
+
+## Java编程指导
+
+### Effective Java
+
+<img src="../img/BookListEffectiveJava第三版.png" alt="img" style="zoom: 67%;" />
+
