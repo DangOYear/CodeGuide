@@ -8,7 +8,7 @@
 + 欢迎贡献知识或更正错误，也可以提issue目前的最新需要学习的技术。
 + [在线阅读](https://dangoyear.github.io/CodeGuide)
 + [LeetCode刷题GitHub](https://github.com/DangOYear/LeetCodeJava)
-+ [Java例子](https://github.com/DangOYear/JavaExample)
++ [Java例子](https://github.com/DangOYear/JavaExample):本教程的所有Java代码会在这里显示
 + 如果觉得可以的话，请大家收藏或推荐给身边的朋友一起来完善。
 + （重要）请大家尽量不要给本教程点赞，GitHub是贡献开源代码的地方，请给优质的代码项目点赞。
 
