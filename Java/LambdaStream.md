@@ -2,6 +2,31 @@
 
 ## Lambda
 
+## 函数式接口
+
+### 自定义函数式接口
+
+```java
+@FunctionalInterface
+interface SayHello
+{
+    void sayMessage(String message);
+}
+
+public class GreetingService {
+    public static void main(String[] args) {
+        SayHello sayHello = message -> {
+            System.out.println("Say Hello " + message);
+        };
+        sayHello.sayMessage("Ni hao");
+    }
+}
+```
+
+### 内置函数式接口
+
+To do
+
 
 
 ## Stream（日常开发中经常会用到）
