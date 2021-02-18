@@ -25,7 +25,86 @@ public class GreetingService {
 
 ### 内置函数式接口
 
-To do
+内置的函数式接口主要分为以下四大类
+
+Function、Comsumer、Predicate、Supplier
+
+**Function**
+
+```java
+import java.util.function.BiFunction;
+
+/**
+ * @author SaltedFish
+ * @date 2021/2/18
+ * 一个接受两个输入参数的方法，并且返回一个结果
+ */
+public class FunctionDemo {
+    public static void main(String[] args) {
+        BiFunction<Integer, Integer, Integer> biFunction = (a, b) -> a + b;
+        System.out.println(biFunction.apply(1, 2));
+    }
+}
+
+```
+
+**Comsumer**
+
+```java
+import java.util.function.Consumer;
+
+/**
+ * @author SaltedFish
+ * @date 2021/2/18
+ * 接受一个输入参数并且无返回的操作
+ */
+public class ConsumerDemo {
+    public static void main(String[] args) {
+        int b = 2;
+        Consumer<Integer> consumer = (a) -> System.out.println(a + b);
+        consumer.accept(1);
+    }
+}
+```
+
+**Predicate**
+
+```java
+import java.util.function.Predicate;
+
+/**
+ * @author SaltedFish
+ * @date 2021/2/18
+ * 接受一个输入参数，返回一个布尔值结果。
+ */
+public class PredicateDemo {
+    public static void main(String[] args) {
+        int b = 1;
+        Predicate<Integer> biPredicate = a -> a > b;
+        System.out.println(biPredicate.test(2));
+    }
+}
+```
+
+**Supplier**
+
+```java
+import java.util.function.Supplier;
+
+/**
+ * @author SaltedFish
+ * @date 2021/2/18
+ * 无参数，返回一个结果。
+ */
+public class SupplierDemo {
+    public static void main(String[] args) {
+        int a = 1;
+        int b = 2;
+        Supplier<Integer> supplier = () -> a + b;
+        System.out.println(supplier.get());
+    }
+}
+```
 
 
 

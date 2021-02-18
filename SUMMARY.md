@@ -9,8 +9,6 @@
   * [数据结构](./BasisofComputerEngineering/数据结构与算法.md)
   * [编译原理](./BasisofComputerEngineering/编译原理.md)
 * [算法](./Algorithms/笔试面试算法.md#笔试面试算法)
-* [IDE使用技巧](./IDE/README.md)
-  * [IDEA使用技巧](./IDE/IDEA.md)
 * [Java](./Java/README.md)
   * [Java基础](./Java/Java基础.md)
   * [Lambda使用](./Java/LambdaStream.md)
@@ -102,6 +100,7 @@
   
   * [信息安全](./InformationSecurity/信息安全.md)
 * [开发常用工具](./Tool/README.md)
+  * [IDE](./Tool/IDEA.md)
   * [Charles](./Tool/Charles.md)
   * [Git](./Tool/Git.md)
 * [构建工具](./BuildTools/README.md)
