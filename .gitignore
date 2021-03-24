@@ -1,0 +1,14 @@
+# mac生成的文件
+.DS_Store
+
+# gitbook install生成文件
+node_modules
+package-lock.json
+
+# gitbook serve生成文件
+_book
+
+Untitled.md
+
+# 图片
+image-*
