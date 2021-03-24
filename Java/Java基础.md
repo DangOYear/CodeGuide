@@ -129,9 +129,11 @@ Exception中有两类，一类可检查异常，一类运行时异常。
 
 ### 为什么重写 `equals` 时必须重写 `hashCode` 方法
 
-equals相同，hashCode必须相同。
++ 两个对象相等，hashcode一定相等
 
-equals不相同，hashCode必须不相同。
+- 两个对象不等，hashcode不一定不等
+- hashcode相等，两个对象不一定相等
+- hashcode不等，两个对象一定不等
 
 ## Java枚举
 
